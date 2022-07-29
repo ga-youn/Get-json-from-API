@@ -102,7 +102,8 @@ function requestTest(data) {
                     } else {
                         resolve(res)
                     }
-                }); 
+                });
+
             } else {
                 console.log(false)
             }
